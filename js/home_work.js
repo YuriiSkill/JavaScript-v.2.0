@@ -60,28 +60,32 @@
 // };
 
 
-let inputGetIn = document.querySelector('.enter-1');
-let inputGetOn = document.querySelector('.enter-2');
+// let inputGetIn = document.querySelector('.enter-1');
+// let inputGetOn = document.querySelector('.enter-2');
 
-let buttonPush = document.querySelector('.push');
-let exit  = document.querySelector('.out-3');
+// let buttonPush = document.querySelector('.push');
+// let exit  = document.querySelector('.out-3');
 
-buttonPush.onclick = () =>{
+// buttonPush.onclick = () =>{
   
 
-  let num1 = +inputGetIn.value;
-  let num2 = +inputGetOn.value;
+//   let num1 = +inputGetIn.value;
+//   let num2 = +inputGetOn.value;
 
-if(num1>num2){
-  exit.innerHTML = num1;
-}
- else if(num1<num2){
-  exit.innerHTML = num2;
-}
+// if(num1>num2){
+//   exit.innerHTML = num1;
+// }
+//  else if(num1<num2){
+//   exit.innerHTML = num2;
+// }
 
-else{
-  exit.innerHTML = 'недопустимое значение';
-}
+// else{
+//   exit.innerHTML = 'недопустимое значение';
+// }
   
 
-}
+// }
+
+
+// INPUT, RANGE, TEXTAREA, CHECKBOX
+
