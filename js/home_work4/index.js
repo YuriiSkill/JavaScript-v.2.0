@@ -54,7 +54,7 @@ document.querySelector('.btn-6').onclick = (event) => {
   console.log(form);
   console.log(form.elements.six.value);
    console.log(form.elements.four.value);
-}
+};
 
 
 
